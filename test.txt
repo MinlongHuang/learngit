@@ -1,2 +1,4 @@
 this is a test file
 type is .txt
+add a line.
+add another line.
