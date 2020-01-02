@@ -1,2 +1,3 @@
 Hello git...
 Beautiful git !!!
+Creating a new branch is quick.
